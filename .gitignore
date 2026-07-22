@@ -1,0 +1,23 @@
+<Compiled class files>
+*.class
+</Compiled class files>
+<IDE files>
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+</IDE files>
+<Build output>
+out/
+build/
+target/
+bin/
+</Build output>
+<OS files>
+.DS_Store
+Thumbs.db
+</OS files>
+<Log files>
+*.log
